@@ -9,6 +9,8 @@ The app consists of:
 - Predefined parameter optimization (grid search)
 - Trade-level hypothetical P&L calculator
 
+[Link to Streamlit App](https://simple-backtest.streamlit.app/)
+
          
 ## Data
 
@@ -51,7 +53,7 @@ Configurable from the Streamlit interface:
 backtrader==1.9.78.123
 millify==0.1.1
 numpy==2.4.0
-pandas==1.3.0
+pandas==2.3.3
 plotly==5.9.0
 streamlit==1.40.1
 streamlit_lightweight_charts==0.7.20
