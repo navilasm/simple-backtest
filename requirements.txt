@@ -1,0 +1,8 @@
+backtrader==1.9.78.123
+millify==0.1.1
+numpy==2.4.0
+pandas==1.3.0
+plotly==5.9.0
+streamlit==1.40.1
+streamlit_lightweight_charts==0.7.20
+yfinance==0.2.37
